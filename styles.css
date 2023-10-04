@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.scoreboard {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.team {
+    margin: 0 20px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 48px;
+    margin: 10px 0;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+}
