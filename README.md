@@ -20,7 +20,7 @@ Usage
 License
 Demo
 
-You can try out the live demo of the Basketball Score Counter here: 
+You can try out the live demo of the Basketball Score Counter here: https://gregarious-figolla-0d9c4c.netlify.app/
 
 Features
 Simple and intuitive user interface.
@@ -34,7 +34,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/basketball-score-counter.git
+git clone https://github.com/TiTANWASTAKEN/basketball-score-counter.git
 Navigate to the project directory:
 
 bash
